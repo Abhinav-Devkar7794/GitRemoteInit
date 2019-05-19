@@ -1,2 +1,3 @@
 Hello Init command of Git.
 Remote added to Local Repository.
+data
